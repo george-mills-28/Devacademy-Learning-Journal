@@ -18,3 +18,16 @@ cd .. - changes to the previous directory
 Unexpected Learning:
 Everything I learned today was completely new to me but I found it very intuitive and easy to pick up. I think the unexpected thing for me was how fast I picked it up.
 
+Version control with Git:
+
+Git is a version control system used for tracking file changes.
+GitHub cloud/central source, where you can push and pull changes down from.
+
+Git is like a country and GitHub is like the United Nations maybe ?
+
+
+I do think I would remember the differences between the two.
+
+I did stick to the time suggestions.
+
+
