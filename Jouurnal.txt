@@ -1,5 +1,8 @@
 25/07/24
 
+SPRINT 1 
+
+
 Command line reflection:
 
 Command line is like using the file explorer in windows where you can read, create and delete, things of the nature.
