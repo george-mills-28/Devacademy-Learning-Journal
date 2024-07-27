@@ -43,6 +43,10 @@ A Git workflow is sort of like a plan on how to use Git in a way to finish work 
 I noticed with my learning that I was picking everything up really quickly and wasn't getting stuck or confused. It is just a matter of remembering everything. 
 
 
+Track and Commit:
+
+I would describe staging and adding/changing a file or something, then committing it to a kind of save point.
+
 
 
 
