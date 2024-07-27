@@ -8,29 +8,48 @@ Command line reflection:
 Command line is like using the file explorer in windows where you can read, create and delete, things of the nature.
 But, instead of clicking through your typing through. For example to open a file in explorer you'd just have to click it twice, whereas in terminal you could use "cat (file name)" to show the content of said file.
 
-Timebox guidelines:
+Timebox guidelines
 I went through everything much faster than the guidelines, so I had time to go back over everything and double check I understood it all.
 
-5 commands:
+5 commands
 mkdir - Makes a directory 
 rm -rf - Deletes a directory 
 touch - creates a file .txt .pdf
 cat - reads/displays contents of a file in terminal
 cd .. - changes to the previous directory
 
-Unexpected Learning:
+Unexpected Learning
 Everything I learned today was completely new to me but I found it very intuitive and easy to pick up. I think the unexpected thing for me was how fast I picked it up.
+
+
 
 Version control with Git:
 
 Git is a version control system used for tracking file changes.
+
 GitHub cloud/central source, where you can push and pull changes down from.
 
 Git is like a country and GitHub is like the United Nations maybe ?
 
-
 I do think I would remember the differences between the two.
 
 I did stick to the time suggestions.
+
+
+Install and explore git:
+
+A Git workflow is sort of like a plan on how to use Git in a way to finish work consistently and productively. Using git effectively and consistently. 
+
+I noticed with my learning that I was picking everything up really quickly and wasn't getting stuck or confused. It is just a matter of remembering everything. 
+
+
+
+
+
+
+
+
+
+
 
 
