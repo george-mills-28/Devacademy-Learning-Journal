@@ -48,6 +48,20 @@ Track and Commit:
 I would describe staging as adding/changing a file or something, then commit as a kind of save point.
 
 
+Branch, Pull, Merge:
+
+Main refers to the default or main branch 
+
+Making a branch allows you to work on different iterations of code before changing the main branch.
+
+These concepts to me feel intuitive and easy to understand
+
+
+Ko Wai Koe:
+
+
+
+
 
 
 
